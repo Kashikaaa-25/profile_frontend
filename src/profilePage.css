@@ -1,0 +1,24 @@
+.container-fluid{
+  background-color: black;
+  opacity: 0.8;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+h3{
+  font-size: 40px;
+}
+.col{
+  color: #ffa500;
+}
+
+
+.btn {
+  font-size: medium;
+  font-weight: 700;
+  color: black;
+  border-radius: 6px;
+  cursor: pointer;
+}
